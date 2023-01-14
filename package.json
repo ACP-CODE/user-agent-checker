@@ -1,0 +1,11 @@
+{
+    "name": "user-agent-checker",
+    "version": "0.0.1",
+    "repository": "acp-code/user-agent-checker",
+    "main": "index.js",
+    "author": {
+        "name": "ACP-CODE",
+        "email": "dev@acp-inc.cc",
+        "url": "https://acp-inc.cc"
+    }
+}
